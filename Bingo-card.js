@@ -17,3 +17,6 @@ Task:
 The numbers must be in the order of their column: B, I, N, G, O. 
 Within the columns, the order of the numbers is random. 
 */
+
+
+// Solution
