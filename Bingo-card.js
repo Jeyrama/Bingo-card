@@ -41,3 +41,5 @@ function getCard() {
   genRange(arr, 'O', 61, 75, 5);
   return arr;
 }
+
+// or
